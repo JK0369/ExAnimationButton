@@ -13,6 +13,7 @@
 		4A855B4627C1ECB90093C56D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A855B4427C1ECB90093C56D /* Main.storyboard */; };
 		4A855B4827C1ECBB0093C56D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A855B4727C1ECBB0093C56D /* Assets.xcassets */; };
 		4A855B4B27C1ECBB0093C56D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A855B4927C1ECBB0093C56D /* LaunchScreen.storyboard */; };
+		4A855B5327C1EDB30093C56D /* AnimationButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A855B5227C1EDB30093C56D /* AnimationButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4A855B4727C1ECBB0093C56D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A855B4A27C1ECBB0093C56D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A855B4C27C1ECBB0093C56D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A855B5227C1EDB30093C56D /* AnimationButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4A855B3E27C1ECB90093C56D /* AppDelegate.swift */,
 				4A855B4027C1ECB90093C56D /* SceneDelegate.swift */,
 				4A855B4227C1ECB90093C56D /* ViewController.swift */,
+				4A855B5227C1EDB30093C56D /* AnimationButton.swift */,
 				4A855B4427C1ECB90093C56D /* Main.storyboard */,
 				4A855B4727C1ECBB0093C56D /* Assets.xcassets */,
 				4A855B4927C1ECBB0093C56D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A855B5327C1EDB30093C56D /* AnimationButton.swift in Sources */,
 				4A855B4327C1ECB90093C56D /* ViewController.swift in Sources */,
 				4A855B3F27C1ECB90093C56D /* AppDelegate.swift in Sources */,
 				4A855B4127C1ECB90093C56D /* SceneDelegate.swift in Sources */,
